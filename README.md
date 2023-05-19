@@ -1,5 +1,5 @@
 # Razvoj pogramskih rješenja
-Laboratorijske vježbe iz predmeta "Razvoj pogramskih rjesenja", Elektrotehnički fakultet Sarajevo, III semestar
+Laboratorijske vježbe iz predmeta "Razvoj pogramskih rješenja", Elektrotehnički fakultet Sarajevo, III semestar
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
